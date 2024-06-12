@@ -24,8 +24,6 @@ Time your movements carefully to avoid oncoming cars. Develop a strategy to navi
 
 # Project Structure:
 
-(Assuming you have separate files for the player, car, and scoreboard)
-
 * main.py: The main script that initializes the game window, sets up the game elements, and handles the game loop.
 * player.py: Defines the player's turtle character, including its movement functions.
 * car.py: Manages the creation and movement of cars on the road.
